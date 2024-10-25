@@ -1,0 +1,4 @@
+Hicimos programas usando etiquetas html y tambien usando XAMPP. en el primer ejercicio de php creamos un codigo para que en la pagina apareciera un parrafo que decia (hola mundo).
+En el segundo ejercicio nso enseñaron las variables en php e hicimos varios ejemplos con nombres, numeros y dias.
+El tercer ejercicio aprendimos la estructura condicional if, else y elseif.
+Ya en el cuarto ejercicio aprendimos que las estructuras repetitivas son similares al lenguaje C, JavaScript, Java y las estructuras repetitivas son For, While y Do/While ya en el quinto ejercicio nos enseñaron el array.
